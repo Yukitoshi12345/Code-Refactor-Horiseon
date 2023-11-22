@@ -130,10 +130,10 @@ aside section img {
 
 ## Installation
 The project was uploaded to [GitHub](https://github.com/) at the following repository:
-[https://github.com/yukitoshi12345/Challenge-1](https://github.com/yukitoshi12345/Challenge-1)
+[https://github.com/yukitoshi12345/Code-Refactor-Horiseon](https://github.com/yukitoshi12345/Code-Refactor-Horiseon)
 
 You can access the deployed application with the GitHub Pages link:
-[https://yukitoshi12345.github.io/Challenge-1/](https://yukitoshi12345.github.io/Challenge-1/)
+[https://yukitoshi12345.github.io/Code-Refactor-Horiseon/](https://yukitoshi12345.github.io/Code-Refactor-Horiseon/)
 
 ## License
 This project is licensed under the MIT License.
