@@ -1,3 +1,7 @@
+/* ================================= 
+ Global rules and element rules
+==================================== */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,14 +12,25 @@ body {
     background-color: #d9dcd6;
 }
 
+/* ---------- Links ---------- */
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* ---------- Paragraphs ---------- */
+
 p {
     font-size: 16px;
 }
+
+/* ================================= 
+ Structural content style
+==================================== */
+
+
+/* ---------- The Header ---------- */
 
 header {
     padding: 20px;
@@ -59,6 +74,8 @@ header nav ul li {
     background-position: center;
 }
 
+/* ---------- Main content ---------- */
+
 main {
     width: 75%;
     display: inline-block;
@@ -93,6 +110,8 @@ main section h2 {
     margin-left: 25px;
 }
 
+/* ------- Additional content ------- */
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +138,8 @@ aside section img {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* --------- The Page Footer --------- */
 
 footer {
     padding: 30px;
