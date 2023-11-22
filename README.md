@@ -14,3 +14,7 @@ The following criteria has to be met:
 - All icon and image elements have accessible alt attributes.
 - Heading attributes are in sequential order.
 - The title element provides a concise and descriptive title.
+
+## Webpage Image
+
+![](./assets/images/webpage.png)
