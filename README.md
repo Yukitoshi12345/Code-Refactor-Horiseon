@@ -18,3 +18,10 @@ The following criteria has to be met:
 ## Webpage Image
 
 ![](./assets/images/webpage.png)
+
+## Installation
+The project was uploaded to [GitHub](https://github.com/) at the following repository:
+[https://github.com/yukitoshi12345/Challenge-1](https://github.com/yukitoshi12345/Challenge-1)
+
+You can access the deployed application with the GitHub Pages link:
+[https://yukitoshi12345.github.io/Challenge-1/](https://yukitoshi12345.github.io/Challenge-1/)
