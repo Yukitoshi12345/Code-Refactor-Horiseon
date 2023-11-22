@@ -134,3 +134,6 @@ The project was uploaded to [GitHub](https://github.com/) at the following repos
 
 You can access the deployed application with the GitHub Pages link:
 [https://yukitoshi12345.github.io/Challenge-1/](https://yukitoshi12345.github.io/Challenge-1/)
+
+## License
+This project is licensed under the MIT License.
