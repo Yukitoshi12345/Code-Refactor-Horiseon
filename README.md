@@ -1,4 +1,4 @@
-# Refactoring Horiseon Web Page for better Accessibility
+# Refactoring Horiseon Webpage for better Accessibility
 
 Horiseon Social Solutions Services, a prominent marketing agency, entrusted us with the task of refactoring their website's code to enhance its accessibility and search engine optimization (SEO).
 
