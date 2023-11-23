@@ -145,7 +145,7 @@ aside section img {
 ## Output
 By implementing relevant concepts and making precise modifications to the source files, we successfully created a project that is highly accessible, efficient, and easy to understand.
 
-## Webpage Image
+## Screenshot
 
 ![](./assets/images/webpage.png)
 
