@@ -1,8 +1,15 @@
-# 01 HTML, CSS, and Git: Code Refactor
-
-## Description
+# Refactoring Horiseon Web Page for better Accessibility
 
 Horiseon Social Solutions Services, a prominent marketing agency, entrusted us with the task of refactoring their website's code to enhance its accessibility and search engine optimization (SEO).
+
+## Table of Contents
+
+- [Objectives](#objectives)
+- [The Process](#the-process)
+- [Output](#output)
+- [Screenshot](#screenshot)
+- [Installation](#installation)
+- [License](#license)
 
 ## Objectives
 
