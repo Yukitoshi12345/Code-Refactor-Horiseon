@@ -88,7 +88,7 @@ main {
     margin-left: 20px;
 }
 
-main section {
+.services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -97,11 +97,11 @@ main section {
     color: #ffffff;
 }
 
-main section img {
+.services img {
     max-height: 200px;
 }
 
-main section h2 {
+.services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -129,17 +129,17 @@ aside {
     background-color: #2589bd;
 }
 
-aside section {
+.benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-aside section h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-aside section img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;

@@ -57,13 +57,13 @@ Changed <div> for <figure> tag.
 
 Added some empty lines for making the HTML sections easier to identify.
 
-Changed <div class = "content> to <main> tag to group the main content.
+Changed <div class = "content"> to <main> tag to group the main content.
 
-Changed <div class = "search-engine-optimization">, <div class = "online-reputation-management">, and <div class = "social-media-marketing"> to just <section> tag.
+Changed <div class = "search-engine-optimization">, <div class = "online-reputation-management">, and <div class = "social-media-marketing"> to just <section class = "services"> tag.
 
 Changed <div class = "benefits"> to <aside> tag to group the aside content.
 
-Changed <div class = "benefit-lead">, <div class = "benefit-brand">, and <div class = "benefit-cost"> to just <section> tag.
+Changed <div class = "benefit-lead">, <div class = "benefit-brand">, and <div class = "benefit-cost"> to just <section class = "benefits"> tag.
 
 Changed <div class = "footer"> to <footer> tag to group the footer content.
 ```
@@ -104,17 +104,17 @@ Changed "header div" to "header nav".
 
 Changed ".hero" for ".marketing-meeting-image".
 
-Changed ".search-engine-optimization", ".online-reputation-management", and ".social-media-marketing" to "main section". Inside main section, for <h2> and <img> tags, changed to "main section h2" and "main section img" respectively.
+Changed ".search-engine-optimization", ".online-reputation-management", and ".social-media-marketing" to ".services". Inside main section, for <h2> and <img> tags, changed to ".services h2" and ".services img" respectively.
 
 Changed ".benefits" to "aside".
 
-Changed ".benefit-lead", ".benefit-brand", and ".benefit-cost" to "aside section". Inside aside section, for <h3> and <img> tags, changed to "aside section h3" and "aside section img" respectively.
+Changed ".benefit-lead", ".benefit-brand", and ".benefit-cost" to ".benefits". Inside aside section, for <h3> and <img> tags, changed to ".benefits h3" and ".benefits img" respectively.
 
 Changed ".footer" to "footer" and ".footer h2" to "footer h2".
 
 Rules that were simplified into one rule:
 
-main section {
+.services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -123,26 +123,26 @@ main section {
     color: #ffffff;
 }
 
-main section img {
+.services img {
     max-height: 200px;
 }
 
-main section h2 {
+.services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-aside section {
+.benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-aside section h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-aside section img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
