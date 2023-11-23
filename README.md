@@ -157,4 +157,4 @@ You can access the deployed application with the GitHub Pages link:
 [https://yukitoshi12345.github.io/Code-Refactor-Horiseon/](https://yukitoshi12345.github.io/Code-Refactor-Horiseon/)
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/Yukitoshi12345/Code-Refactor-Horiseon/blob/main/LICENSE).
