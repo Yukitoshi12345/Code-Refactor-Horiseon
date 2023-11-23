@@ -2,11 +2,15 @@
  Global rules and element rules
 ==================================== */
 
+/* Universal Selector */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+
+/* Body */
 
 body {
     background-color: #d9dcd6;
@@ -23,6 +27,17 @@ a {
 
 p {
     font-size: 16px;
+}
+
+/* Marketing Meeting Image */
+
+.marketing-meeting-image {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 /* ================================= 
@@ -63,15 +78,6 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-.marketing-meeting-image {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
 }
 
 /* ---------- Main content ---------- */
