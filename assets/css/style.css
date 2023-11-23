@@ -2,7 +2,7 @@
  Global rules and element rules
 ==================================== */
 
-/* Universal Selector */
+/* ---------- Universal Selector ---------- */
 
 * {
     box-sizing: border-box;
@@ -10,7 +10,7 @@
     margin: 0;
 }
 
-/* Body */
+/* ---------- Body ---------- */
 
 body {
     background-color: #d9dcd6;
@@ -29,7 +29,7 @@ p {
     font-size: 16px;
 }
 
-/* Marketing Meeting Image */
+/* ---------- Marketing Meeting Image ---------- */
 
 .marketing-meeting-image {
     height: 800px;
@@ -80,7 +80,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* ---------- Main content ---------- */
+/* ---------- Main Content ---------- */
 
 main {
     width: 75%;
@@ -116,7 +116,7 @@ main section h2 {
     margin-left: 25px;
 }
 
-/* ------- Additional content ------- */
+/* ------- Additional Content ------- */
 
 aside {
     margin-right: 20px;

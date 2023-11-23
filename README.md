@@ -30,6 +30,14 @@ Structure and descriptive comments were added:
 
 <!-- Page Footer -->
 
+ <!-- Navigation Menu -->
+
+ <!-- Figure -->
+
+ <!-- Section -->
+
+ <!-- Image with Alternative Text  -->
+
 Included alt properties with related description for each image.
 
 Changed title from "website" to "Horiseon".
@@ -60,6 +68,16 @@ Structure and descriptive comments were added to the CSS file, and the css rules
 /* ================================= 
  Global rules and element rules
 ==================================== */
+
+/* ---------- Universal Selector ---------- */
+
+/* ---------- Body ---------- */
+
+/* ---------- Links ---------- */
+
+/* ---------- Paragraphs ---------- */
+
+/* ---------- Marketing Meeting Image ---------- */
 
 /* ================================= 
  Structural content style
