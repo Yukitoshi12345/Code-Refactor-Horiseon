@@ -9,6 +9,7 @@ Horiseon Social Solutions Services, a prominent marketing agency, entrusted us w
 - [Output](#output)
 - [Screenshot](#screenshot)
 - [Installation](#installation)
+- [Central Grader Comments](#central-grader-comments)
 - [License](#license)
 
 ## Objectives
