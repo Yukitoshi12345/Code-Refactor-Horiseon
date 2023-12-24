@@ -163,5 +163,15 @@ The project was uploaded to [GitHub](https://github.com/) at the following repos
 You can access the deployed application with the GitHub Pages link:
 [https://yukitoshi12345.github.io/Code-Refactor-Horiseon/](https://yukitoshi12345.github.io/Code-Refactor-Horiseon/)
 
+## Central Grader Comments
+Grade: 100/100
+
+Marker: Awesome job on the Code Refactor Challenge! You were able to demonstrate your ability to refactor a web app with HTML and CSS. On the same note, great job ensuring your links are all functional and that they correctly navigate users to their desired section of the page. Well done adding 'alt' attributes to all <img> tags for accessibility purposes. You were able to ensure the organization and consolidation of your CSS selector properties. You were also able to properly comment out your CSS code, this will be huge for you when you go back to your work and try to understand the story and approach behind it! Additionally, you were able to correctly deploy your application to a live URL. 
+
+Upon deploying your application the browser loads smoothly and without errors. You were able to submit your GitHub URL and your repo contains working organized code! You created a unique name for your repository avoiding words like ‘homework’ and ‘assignment’, and you were able to follow best practices for the file structure and naming conventions. In the same respect, you were able to follow proper coding conventions with indentation, quality commentary and overall structure. You were able to show your work, with multiple descriptive commits, and your repository includes a quality README file that contains a brief description of your application, a screenshot of the completed product and a link to the deployed site. Overall excellent job.
+
+Keep up the great work!
+- Sam, Centralized Grading
+
 ## License
 This project is licensed under the [MIT License](https://github.com/Yukitoshi12345/Code-Refactor-Horiseon/blob/main/LICENSE).
