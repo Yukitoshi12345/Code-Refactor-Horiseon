@@ -1,3 +1,5 @@
+![HTML CSS](https://img.shields.io/badge/HTML-CSS-blue)
+
 # Refactoring Horiseon Webpage for better Accessibility
 
 Horiseon Social Solutions Services, a prominent marketing agency, entrusted us with the task of refactoring their website's code to enhance its accessibility and search engine optimization (SEO).
