@@ -1,31 +1,45 @@
 ![HTML CSS](https://img.shields.io/badge/HTML-CSS-blue)
 
-# Refactoring Horiseon Webpage for better Accessibility
+<h1 align ="center">Refactoring Horiseon Webpage for better Accessibility</h1>
 
 Horiseon Social Solutions Services, a prominent marketing agency, entrusted us with the task of refactoring their website's code to enhance its accessibility and search engine optimization (SEO).
 
 ## Table of Contents
 
-- [Objectives](#objectives)
-- [The Process](#the-process)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Process](#process)
 - [Output](#output)
 - [Screenshot](#screenshot)
 - [Installation](#installation)
 - [Central Grader Comments](#central-grader-comments)
 - [License](#license)
 
-## Objectives
+## User Story
 
-The following criteria has to be met:
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
 
-- The webpage meets accessibility standards.
-- When viewing the source code, semantic HTML elements are present.
-- The structure of the HTML elements follows a logical order independent of styling and positioning.
-- All icon and image elements have accessible alt attributes.
-- Heading attributes are in sequential order.
-- The title element provides a concise and descriptive title.
+## Acceptance Criteria
 
-## The Process
+```
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+```
+
+## Process
 
 The specific findings and modifications to the HTML file
 
