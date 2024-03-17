@@ -1,4 +1,4 @@
-![HTML CSS](https://img.shields.io/badge/HTML-CSS-blue)
+![Badge](https://img.shields.io/badge/License-MIT-yellow.svg) ![HTML](https://img.shields.io/badge/HTML-orange) ![CSS](https://img.shields.io/badge/CSS-blue)
 
 <h1 align ="center">Refactoring Horiseon Webpage for better Accessibility</h1>
 
